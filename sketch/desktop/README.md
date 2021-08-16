@@ -10,11 +10,3 @@ DevAddict desktop sketches.
 ![Desktop Sketch 1](./sketch-desktop_7.jpeg)
 ![Desktop Sketch 1](./sketch-desktop_8.jpeg)
 
-<style>
-  img {
-    width: 100%;
-    margin: 10px;
-    border-radius: 10px;
-  }
-</style>
-
