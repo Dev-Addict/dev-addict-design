@@ -6,6 +6,9 @@ sketches for DevAddict.
 - [desktop](./sketch/desktop)
 - [phone](./sketch/phone)
 
-## [User Flows](./userflows)
+## [User Flows](./userflow)
 user flows for DevAddict.
+
+## [Site Maps](./sitemap)
+site maps for DevAddict.
 

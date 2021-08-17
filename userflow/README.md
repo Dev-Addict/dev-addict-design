@@ -1,7 +1,7 @@
 ## DevAddict UserFlows
 userflows for DevAddict
 
-## UserFlows Components
+## UserFlow Components
 ![User Flows Components](./user-flow_components.jpeg)
 
 ## UserFlow: Contact Me
