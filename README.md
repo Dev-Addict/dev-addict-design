@@ -15,3 +15,6 @@ site maps for DevAddict.
 ## [Wireframe](./wireframe)
 wireframes for DevAddict.
 
+## [Typography](./typography)
+typography for DevAddict.
+
