@@ -18,3 +18,6 @@ wireframes for DevAddict.
 ## [Typography](./typography)
 typography for DevAddict.
 
+## [Color Scheme](./color-scheme)
+color schemes for DevAddict.
+
