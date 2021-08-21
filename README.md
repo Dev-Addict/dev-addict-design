@@ -21,3 +21,7 @@ typography for DevAddict.
 ## [Color Scheme](./color-scheme)
 color schemes for DevAddict.
 
+## [Component](./component)
+component for DevAddict.
+
+
