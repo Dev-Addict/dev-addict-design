@@ -10,3 +10,6 @@ user interface for DevAddict
 ## User Interface: Home(mobile)
 ![Color Schemes: Home(mobile)](./user-interface_home-mobile.jpeg)
 
+## User Interface: About Me(mobile)
+![Color Schemes: About Me(mobile)](./user-interface_about-me-mobile.jpeg)
+
