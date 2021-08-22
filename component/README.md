@@ -16,3 +16,6 @@ components for DevAddict
 ## Components: NavBar Close(mobile)
 ![Components: NavBar Close(mobile)](./component_navbar-mobile-close.jpeg)
 
+## Components: Sliders
+![Components: Sliders](./component_sliders.jpeg)
+

@@ -13,3 +13,6 @@ color schemes for DevAddict
 ## Color Schemes(25% Opacity)
 ![Color Schemes(25% Opacity)](./color-schemes_25-percent-opacity.jpeg)
 
+## Color Schemes: Gradients
+![Color Schemes: Gradients](./color-schemes_gradients.jpeg)
+

@@ -24,4 +24,6 @@ color schemes for DevAddict.
 ## [Component](./component)
 component for DevAddict.
 
+## [User Interface](./user-interface)
+user interface for DevAddict.
 
