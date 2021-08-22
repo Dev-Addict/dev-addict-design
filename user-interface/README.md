@@ -7,6 +7,9 @@ user interface for DevAddict
 ## User Interface: About Me
 ![Color Schemes: About Me](./user-interface_about-me.jpeg)
 
+## User Interface: My Portfolio
+![Color Schemes: My Portfolio](./user-interface_my-portfolio.jpeg)
+
 ## User Interface: Home(mobile)
 ![Color Schemes: Home(mobile)](./user-interface_home-mobile.jpeg)
 
