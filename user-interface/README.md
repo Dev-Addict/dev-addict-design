@@ -22,3 +22,6 @@ user interface for DevAddict
 ## User Interface: My Portfolio(mobile)
 ![Color Schemes: My Portfolio(mobile)](./user-interface_my-portfolio-mobile.jpeg)
 
+## User Interface: My Skills(mobile)
+![Color Schemes: My Skills(mobile)](./user-interface_my-skills-mobile.jpeg)
+
