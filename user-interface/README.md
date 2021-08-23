@@ -28,3 +28,6 @@ user interface for DevAddict
 ## User Interface: My Skills(mobile)
 ![Color Schemes: My Skills(mobile)](./user-interface_my-skills-mobile.jpeg)
 
+## User Interface: My Articles(mobile)
+![Color Schemes: My Articles(mobile)](./user-interface_my-articles-mobile.jpeg)
+
