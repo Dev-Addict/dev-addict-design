@@ -19,6 +19,9 @@ user interface for DevAddict
 ## User Interface: Contact Me
 ![Color Schemes: Contact Me](./user-interface_contact-me.jpeg)
 
+## User Interface: Project
+![Color Schemes: Project](./user-interface_project.jpeg)
+
 ## User Interface: Home(mobile)
 ![Color Schemes: Home(mobile)](./user-interface_home-mobile.jpeg)
 
