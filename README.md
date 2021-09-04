@@ -27,3 +27,6 @@ component for DevAddict.
 ## [User Interface](./user-interface)
 user interface for DevAddict.
 
+## [Logo](./logo)
+logo for DevAddict.
+
