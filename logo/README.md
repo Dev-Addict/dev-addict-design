@@ -1,6 +1,9 @@
 # DevAddict User Interface
 user interface for DevAddict
 
+## Logo
+![Logo](./logo.jpeg)
+
 ## Logo Idea: 1
 ![Logo Idea: 1](./idea-1.jpeg)
 
