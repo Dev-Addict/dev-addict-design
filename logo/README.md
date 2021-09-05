@@ -127,3 +127,21 @@ user interface for DevAddict
 ## Logo Idea: 41
 ![Logo Idea: 41](./idea-41.jpeg)
 
+## Logo Idea: 42
+![Logo Idea: 42](./idea-42.jpeg)
+
+## Logo Idea: 43
+![Logo Idea: 43](./idea-43.jpeg)
+
+## Logo Idea: 44
+![Logo Idea: 44](./idea-44.jpeg)
+
+## Logo Idea: 45
+![Logo Idea: 45](./idea-45.jpeg)
+
+## Logo Idea: 46
+![Logo Idea: 46](./idea-46.jpeg)
+
+## Logo Idea: 47
+![Logo Idea: 47](./idea-47.jpeg)
+
